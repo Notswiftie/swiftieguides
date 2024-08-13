@@ -1,5 +1,5 @@
 # Why bol? (or any other melee build)
-_This was written a long time ago. For a more update version (with much more proof and theory) on claymore vs term, see [here](/Users/lucastang/IdeaProjects/swiftieguides/guides/Dark Claymore vs Terminator.md)_
+_This was written a long time ago. For a more update version (with much more proof and theory) on claymore vs term, see [here](https://github.com/Notswiftie/swiftieguides/blob/main/guides/Dark%20Claymore%20vs%20Terminator.md)_
 ## Part 1: Why is juju  not good?
 Everything that makes juju *good*, let it be 3 enemies at once, bouncy arrows et cetera requires you to get a hit on first.
 And that's the main issue with juju - it is extremely prone to being sabotaged by stray mobs which just refuse to get hit.

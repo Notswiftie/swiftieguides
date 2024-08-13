@@ -16,7 +16,7 @@ _This guide is intended for players with a f7 completion, but for those without,
 
 ### [WEAPON]
 Bouquet of lies, soul eater 3+, melee enchants, smite 7, prosecute, triple strike, syphon...etc. Fabled or suspicious reforge.
-[Justification for why bol is better than juju](/Users/lucastang/IdeaProjects/swiftieguides/guides/why is bol better than juju.md) 
+[Justification for why bol is better than juju](https://github.com/Notswiftie/swiftieguides/blob/main/guides/why%20is%20bol%20better%20than%20juju.md) 
 (You can skip juju entirely)
 
 
