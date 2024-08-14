@@ -117,7 +117,7 @@ Therefore, the argument that "term" is ranged stands NO ground - it clears equal
 Probably the most important section for many people - a cheap, soul eater claymore would cost probably just over 200M coins, whilst a terminator would cost 600-700m at least for a decent one.
 
 Furthermore, there's magical power. 
-Claymore only needs 450 magical power if you use two pieces of renowned armour, and 804 if you use one piece, whilst term needs well over 700 (maybe even 800) just to get 100 crit chance on precise, not to mention the fact that overload means there's no limit to how much mp you'll need. _(Keep in mind term will still need at least one piece of renowned since 100 attack speed is really hard to get on skeleton pet without using tunings)_
+Claymore only needs 407 magical power if you use two pieces of renowned armour, and 777 if you use one piece, **(EVEN LESS IF YOU USE MASTER STARS!** whilst term needs well over 700 (maybe even 800) just to get 100 crit chance on precise, not to mention the fact that overload means there's no limit to how much mp you'll need. _(Keep in mind term will still need at least one piece of renowned since 100 attack speed is really hard to get on skeleton pet without using tunings)_
 
 Yeah, claymore is a lot cheaper. A lot.
 ### 7. Arguments against claymore
